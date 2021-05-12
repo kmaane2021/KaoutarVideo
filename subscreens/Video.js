@@ -409,7 +409,7 @@ const styles = ScaledSheet.create({
   video22:
   {
     width: "100%",
-    height: "250@s",
+    height: "300@s",
     alignContent: 'center',
     backgroundColor: 'black',
 
